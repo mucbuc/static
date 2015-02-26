@@ -1,6 +1,6 @@
 {
 	'includes':[
-		'lib/spawn-empty/def.gypi',
+		'lib/empty-plank/def.gypi',
 		'plank/def/mac-targets.gypi',
 		'plank/def/cpp11.gypi'
 	],#includes
