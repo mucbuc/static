@@ -1,0 +1,6 @@
+{
+	'target_defaults': {
+		'sources': [
+		]
+	}
+}
