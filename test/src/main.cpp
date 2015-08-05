@@ -1,10 +1,10 @@
 #include <iostream>
-
 #include <plank/src/test.h>
+#include <lib/static/interface.h>
 
 int main(int argc, const char * argv[])
 {
-	ASSERT(1);
-	std::cout << "hello test cases" << std::endl;
+    using namespace om636;
+	empty_type e;
 	return 0;
 }

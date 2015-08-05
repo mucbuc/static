@@ -18,4 +18,6 @@ if (!(p)) { \
 	exit(1); \
 }
 
+#define FOOTER std::cout << __FUNCTION__ << " passed" << std::endl;
+
 #endif // TEST_H
