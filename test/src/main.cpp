@@ -1,5 +1,5 @@
 #include <iostream>
-#include <plank/src/test.h>
+#include "test.h"
 #include <lib/static/interface.h>
 
 int main(int argc, const char * argv[])
